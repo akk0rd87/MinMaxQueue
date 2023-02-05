@@ -1,0 +1,9 @@
+*.exe
+*.pdb
+*.suo
+*.sdf
+.vscode
+.vscode/
+.vs/
+x64/
+packages/
